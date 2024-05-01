@@ -32,6 +32,8 @@ A: I can't see the future, so it remains a mistery.
 
 Q: But Arc is planned to be on Windows 10 as they said, why did you make that?
 
+![image](https://github.com/LariVille/Arc_Installer_Windows_10/assets/97411636/d831f256-7f70-440c-95f6-e873d493a290)
+
 A: I know that, because people are impatient, I will archive this repo when they will make a Windows 10 port.
 
 ***
