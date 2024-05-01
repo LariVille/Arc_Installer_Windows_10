@@ -4,11 +4,11 @@ First, Download [Arc.appinstaller](https://releases.arc.net/windows/prod/Arc.app
 
 After that go to the [releases](https://github.com/LariVille/Arc_Installer_Windows_10/releases) and download the `.zip` file in the assets.
 
-You should now have `Arc.appinstaller` and `Arc-Windows10-Installer.zip`.
+You should now have `Arc.appinstaller` and `Unofficial-Arc-Windows10-Installer.zip`.
 
 Create a folder of where you want to install Arc, then put the content of `Arc-Windows10-Installer.zip` by extracting it inside of that folder.
 
-Move `Arc.appinstaller` to where the `Arc-Windows10-Installer.exe` is.
+Move `Arc.appinstaller` to where the `Arc Windows10 Installer.exe` is.
 
 The folder should look like this:
 
@@ -16,7 +16,7 @@ The folder should look like this:
 
 Go to the Settings app on Windows (Win+I), Updates and Security > for Developers > Enable Developer Mode (you can disable it after using the installer)
 
-Then, right click `Arc-Windows10-Installer.exe` and run it as Administrator.
+Then, right click `Arc Windows10 Installer.exe` and run it as Administrator.
 
 Then do the instructions on the Installer.
 
