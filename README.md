@@ -1,4 +1,14 @@
 # Arc Browser Installer for Windows 10
+<h3 align="center">
+  <br>
+  <img src="https://github.com/LariVille/Arc_Installer_Windows_10/blob/main/Logo.png" alt="Pygafi logo"/>
+  <br>
+  <b>UNOFFICIAL Arc Browser Installer for Windows 10</b>
+  <br>
+  <br>
+  <b>(if you are impatient)</b>
+</h3>
+
 
 ***
 
@@ -19,7 +29,7 @@ If you are impatient and you don't want to wait for an official Windows 10 port,
 
 > [!NOTE]
 > * The Arc Browser was not made for Windows 10, so there can be bugs :/
-> * Take note by using this installer, The Browser Company will not help you if you report bugs.
+> * Take note by using this installer, The Browser Company will not help you if you have any issues.
 
 ***
 
