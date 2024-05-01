@@ -13,7 +13,7 @@
 ***
 
 ## What is this?:
-This is an UNOFFICIAL installer for the [Arc Browser](https://arc.net) made by The Browser Company. But sadly the official installer is only supported on Windows 11, but we can bypass that restriction.
+This is an UNOFFICIAL installer for the [Arc Browser](https://arc.net). The Browser was made by The Browser Company. But sadly the official installer is only supported on Windows 11, but we can bypass that restriction.
 
 If you are impatient and you don't want to wait for an official Windows 10 port, you can use this instead.
 
