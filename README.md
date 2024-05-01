@@ -42,5 +42,5 @@ Head over to [Guide.md](https://github.com/LariVille/Arc_Installer_Windows_10/bl
 ## Special Thanks to:
 
 * [This post on reddit](https://www.reddit.com/r/ArcBrowser/comments/19ej1pz/arc_on_windows_10_latest_build_with_icons_working/)
-* [LagLife for making a video about this](https://www.youtube.com/watch?v=1fHE_0rN1LY)
+* [LagLife for making a video on how to install it manually](https://www.youtube.com/watch?v=1fHE_0rN1LY)
 * The Browser Company for making this browser
