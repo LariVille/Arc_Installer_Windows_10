@@ -1,4 +1,4 @@
-# Arc Browser Installer for Windows 10
+# Unofficial Arc Browser Installer for Windows 10 (or UAIW10 in short)
 <h3 align="center">
   <br>
   <img src="https://github.com/LariVille/Arc_Installer_Windows_10/blob/main/Logo.png" alt="Pygafi logo"/>
