@@ -13,12 +13,16 @@
 ***
 
 ## Disclamer:
-> [!WARNING]
+> [!IMPORTANT]
 > * This is an **UNOFFICIAL** installer for the [Arc Browser](https://arc.net) (which is currently only supported on Windows 11).
 > * I'm not responsible for any damage caused by using this installer.
 > * The Browser Company will not help you if you install Arc with this installer.
 > * When Arc will finally release on Windows 10, this installer will be obsolete and archived.
 > * The Browser Company owns the Arc Browser, they are in their rights to take down this Repository.
+
+
+> [!NOTE]
+> This tool may have bugs, if you run into any issues in the installer, please report them in the [issues tab](https://github.com/LariVille/Arc_Installer_Windows_10/issues).
 
 ***
 
