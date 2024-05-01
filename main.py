@@ -116,27 +116,21 @@ input("NOTE 4/4: Finally, make sure that you enabled Developer Mode in the Setti
 print("Downloading Arc Files and Dependencies... This may take a while.")
 xml_file_path = "Arc.appinstaller"
 parse_and_download(xml_file_path)
-print("Arc Files and Dependencies downloaded successfully!")
 
 print("Extracting Arc.msix...")
 extract_msix("Temp Arc")
-print("Arc.msix extracted successfully!")
 
 print("Deleting signature files...")
 delete_files("ArcFiles", ["[Content_Types].xml", "AppxBlockMap.xml", "AppxSignature.p7x", "AppxMetadata"])
-print("Signature files deleted successfully!")
 
 print("Patching ArcManifest.xml...")
 edit_xml_file("ArcFiles/AppxManifest.xml", "10.0.19000.0")
-print("ArcManifest.xml patched successfully!")
 
 print("Installing dependencies via Powershell...")
 install_msix("Temp Arc")
-print("Arc dependencies installed successfully!")
 
 print("Installing required fonts...")
 install_font("Segoe Fluent Icons.ttf")
-print("Fonts installed successfully!")
 
 prompt_for_dev_mode()
 print("Sideloading Arc...")
