@@ -26,7 +26,7 @@ A: It's just a basic application that will:
 
 Q: Will the Browser Company delete this repo?
 
-A: I can't see the future, so it remains a mistery.
+A: I can't see the future, so it remains a mystery.
 
 ***
 
