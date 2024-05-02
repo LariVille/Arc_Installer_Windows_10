@@ -70,7 +70,7 @@ def edit_xml_file(file_path, new_min_version):
 
         tree.write(file_path, pretty_print=True, xml_declaration=True, encoding='utf-8')
     else:
-        print("Element 'TargetDeviceFamily' non trouvé dans le fichier XML.")
+        print("Element 'TargetDeviceFamily' not found in XML file.")
 
 
 def install_msix(folder):
