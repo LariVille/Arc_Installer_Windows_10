@@ -5,7 +5,6 @@
   <br>
   <b>UNOFFICIAL Arc Browser Installer for Windows 10</b>
   <br>
-  <br>
   <b>(if you are impatient)</b>
 </h3>
 
