@@ -39,9 +39,9 @@ If you are impatient and you don't want to wait for an official Windows 10 port,
 
 ## Getting started:
 
-Head over to [Guide.md](https://github.com/LariVille/Arc_Installer_Windows_10/blob/main/guide.md) to use this.
+Head over to [the installation steps](https://github.com/LariVille/Arc_Installer_Windows_10/wiki/Installation) to use this.
 
-Any questions? Head over [FAQ.md](https://github.com/LariVille/Arc_Installer_Windows_10/blob/main/FAQ.md)
+Any questions? Head over the [FAQ](https://github.com/LariVille/Arc_Installer_Windows_10/wiki/FAQ).
 
 ***
 
