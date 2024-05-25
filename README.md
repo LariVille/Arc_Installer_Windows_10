@@ -8,6 +8,11 @@
   <b>(if you are impatient)</b>
 </h3>
 
+# THIS INSTALLER IS BROKEN NOW
+>[!CAUTION]
+> **The installer is now broken, please use [an alternative](https://github.com/devz3ro/Arc-Windows-10) or download the [official installer](https://arc.net/).**
+> This repo is now archived.
+
 
 ***
 
